@@ -2,9 +2,9 @@
 ### **DSA Mini Project — UE24CS252A : Data Structures and its Applications**  
 ### PESU EC
  Group 17, Section 3A
-    Abhigyan Dutta (PES2UG24CS019)
-    Akash Singh (PES2UG24CS042)
-    A. Sheiman Joshi (PES2UG24CS003)
+  Abhigyan Dutta (PES2UG24CS019)
+  Akash Singh (PES2UG24CS042)
+  A. Sheiman Joshi (PES2UG24CS003)
     
 ---
 

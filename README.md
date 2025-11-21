@@ -48,11 +48,11 @@ Source File → `DSA_Monster_Rogue.c`
 ---
 
 
-# Implementations (Required in Mini Project)
+# Implementations 
 
-## Implementation 1 — Random Monster Position
+## Implementation 1 — Random Entity Positions
 - Maze scanned for all walkable tiles  
-- Random monster location selected via  
+- Random entity locations selected via  
 ```
 rand(), srand(time(NULL))
 ```

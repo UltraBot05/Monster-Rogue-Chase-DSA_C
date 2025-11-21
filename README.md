@@ -10,14 +10,10 @@
 
 ## ▶️ Running the Program
 
-### **Compile**
+### **Compile & Run**
 ```
-gcc DSA_MP_imple.c -o chase_game
-```
-
-### **Run**
-```
-./chase_game
+gcc DSA_Monster_Rogue.c -o game
+./game
 ```
 
 Press **Enter** each turn to advance the simulation.
@@ -35,7 +31,7 @@ This project implements a **15×15 console-based dungeon chase game**, where:
 
 This project demonstrates **core DSA concepts** from all four units of the syllabus.
 
-Source File → `DSA_MP_imple.c`
+Source File → `DSA_Monster_Rogue.c`
 
 ---
 
